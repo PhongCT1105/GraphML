@@ -1,2 +1,7 @@
 .venv
 graphmlvenv
+Colab3/dataset/ogbn_arxiv/raw/node-feat.csv.gz
+Colab3/dataset/ogbn_arxiv/processed/geometric_data_processed.pt
+Colab3/ogbn-arxiv_node.csv
+Colab3/best_model.pt
+Colab3/ogbn-arxiv_node.csv
